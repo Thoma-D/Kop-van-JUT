@@ -1,1 +1,1 @@
-BOOK
+Voor deze opdracht moesten we een kop van Jut maken. Een soort van kermis attractie waarbij je met een hamer een gewichtje omhoog krijgen en zo je kracht te meten. De opdracht zei dat er een drukmeting moet zijn en een auditieve en visuele outputs.
