@@ -29,6 +29,7 @@ LEDs geven visuele feedback afhankelijk van de behaalde hoogte/tijd.
 
 Indien de piezo bovenaan geactiveerd wordt, gaat er een bel af via een solenoïde, wat auditieve feedback geeft.
 
-## Nodig gerief
+## Schakeling arduino
+<img src="Afbeeldingen/Schakeling_opkomende.jpg">
 
 
