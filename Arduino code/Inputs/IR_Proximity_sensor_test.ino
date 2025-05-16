@@ -40,7 +40,7 @@ void loop() {
       unsigned long duration = endTime - startTime;
       float t = duration / 1000.0;
 
-      // Toon resultaten via seriële monitor for better testing
+      // Toon resultaten via seriële monitor om beter te testen
       Serial.print("Timer gestopt. Tijd: ");
       Serial.print(duration);
       Serial.println(" ms");
