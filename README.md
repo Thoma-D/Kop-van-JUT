@@ -14,6 +14,12 @@ We onderzochten verschillende manieren om de kracht van een slag te meten:
 **Accelerometer**: technisch complex door meerdere bewegingsrichtingen. Daarnaast zou het ook de klap zelf detecteren, wat onnauwkeurig is. Tot slot zorgt lange bekabeling voor risico’s op vertraging of storing.
 
 ## Oplossing / Werking prototype
+### Prototype
+<p align="center">
+<img src="Afbeeldingen/KOP_VAN_JUT_1.jpg" width="79%">
+<img src="Afbeeldingen/KOP_VAN_JUT_ZONDER_LEDS.jpg" width="20%">
+</p>
+
 ### Meetsysteem: 
 In plaats van krachtmeting kozen we voor een tijdmeting gebaseerd op hoogte:
 
@@ -30,6 +36,5 @@ LEDs geven visuele feedback afhankelijk van de behaalde hoogte/tijd.
 Indien de piezo bovenaan geactiveerd wordt, gaat er een bel af via een solenoïde, wat auditieve feedback geeft.
 
 ## Schakeling arduino
-<img src="Afbeeldingen/Schakeling_opkomende.jpg">
-
+<img src="Afbeeldingen/Schakeling_KOP_VAN_JUT.png">
 
